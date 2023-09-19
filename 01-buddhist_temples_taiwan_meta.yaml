@@ -1,0 +1,17 @@
+projectName: Buddhist Temples in Taiwan active in 2010
+
+description: |
+  ## Buddhist Temples in Taiwan (2008-2010) - Temples active in 2010
+
+  This project, funded by the Haoan Foundation, was conducted at the Dharma Drum Institute of Liberal Arts 2008-2010. The project is hosted at: https://buddhistinformatics.dila.edu.tw/taiwanbudgis/index.php.
+  The csv and yaml of this Nanyang-temples data layer includes only the 5059 Buddhist temples that were active in 2010. There are another ca. 500 historical temples that were discontinued or moved. The full data with additional text and descriptions is in the XML, which is the original distributable of the project.
+
+date: 2023-09-19
+
+contact: m.bingenheimer@gmail.com
+
+credits: Dharma Drum Institute of Liberal Arts, Marcus Bingenheimer
+
+license:
+  name: CC-BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
