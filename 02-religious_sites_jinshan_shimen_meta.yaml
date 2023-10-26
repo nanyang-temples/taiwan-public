@@ -1,0 +1,19 @@
+projectName: Survey of religious sites in Jinshan 金山 and Shimen 石門 districts, northeast Taiwan.
+
+description: |
+  This layer is the result of a [FROGBEAR](frogbear.org) workshop titled ["Space and Cyberspace - Using GIS in the Study of East Asian Religion"](https://spaceandcyberspace2017.mbingenheimer.net/), that took place June 2017 at [Dharma Drum](https://www.dila.edu.tw/). The images taken during the survey are archived at the [Frogbear Database of Religious Sites in East Asia](https://frogbear.org/app/#/list).
+  The csv and yaml of this Nanyang-temples data layer include 147 religious sites in the districts of Jinshan 金山 and Shimen 石門 districts in northeast Taiwan. All sites were visited and documented by one of three teams:
+  * Team 1: Anderl, Christoph; Shen, Lien Fan; Burdorf, Suzanne; Yan, Weiguang 闫伟光
+  * Team 2: Lin, Peiying 林佩瑩; Buckelew, Kevin; Seymour, Kelsey; Wu, Jinhui
+  * Team 3: Chang, Pi-chun 張碧君; Travis, Travis N.; Chong, Eng Keat William; Li, Xinlu 李昕璐
+  The workshop was taught and organized by Simon Wiles, Oliver Streiter, Jenjou Hung 洪振洲, and Marcus Bingenheimer.
+
+date: 2023-10-26
+
+contact: m.bingenheimer@gmail.com
+
+credits: [FROGBEAR](frogbear.org), [Marcus Bingenheimer](https://mbingenheimer.net/publications/publications.html)
+
+license:
+  name: CC-BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
